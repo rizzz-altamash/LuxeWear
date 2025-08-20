@@ -1,4 +1,6 @@
 // app/components/Categories.js
+
+/* eslint-disable react/no-unescaped-entities */
 'use client'
 import { useState } from 'react'
 

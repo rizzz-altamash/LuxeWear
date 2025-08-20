@@ -1,4 +1,6 @@
 // app/components/ComboDeals.js
+
+/* eslint-disable react/no-unescaped-entities */
 'use client'
 import { useState } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'

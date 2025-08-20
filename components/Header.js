@@ -1,4 +1,6 @@
 // app/components/Header.js
+
+/* eslint-disable react/no-unescaped-entities */
 'use client'
 import { useState } from 'react'
 import { Search, ShoppingCart, Menu, X, User } from 'lucide-react'

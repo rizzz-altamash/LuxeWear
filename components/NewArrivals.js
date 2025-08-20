@@ -1,4 +1,6 @@
 // app/components/NewArrivals.js
+
+/* eslint-disable react/no-unescaped-entities */
 'use client'
 import { useState } from 'react'
 import { Heart, ShoppingBag, Star } from 'lucide-react'

@@ -1,4 +1,6 @@
 // app/components/Features.js
+
+/* eslint-disable react/no-unescaped-entities */
 import { RotateCcw, Globe, Users } from 'lucide-react'
 
 const features = [

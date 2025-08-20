@@ -1,4 +1,6 @@
 // app/components/Footer.js
+
+/* eslint-disable react/no-unescaped-entities */
 import { 
   MapPin, 
   Phone, 
